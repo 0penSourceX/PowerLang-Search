@@ -1,0 +1,18 @@
+import power  {
+
+start 
+
+ 
+let e = a * 3 ; 
+let f = 6.3 + 5.1 ; 
+let g = a / b ; 
+let a = (a,b,c) =>a+a;
+ 
+ 
+end
+
+
+
+}
+
+
