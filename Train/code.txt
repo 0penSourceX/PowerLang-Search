@@ -1,0 +1,24 @@
+Algo test
+Debut
+Si 15.3 == x Alors
+somme Prend 6.39
+FinSi
+Si 15.5 == x Alors
+somme Prend 6.39
+FinSi
+
+ 
+Si x1 > y1 Alors
+somme Prend x
+FinSi
+
+Si x == z Alors
+y3 Prend 225.43
+FinSi
+
+Si y2   Alors
+x Prend somme
+FinSi
+
+end
+ 
